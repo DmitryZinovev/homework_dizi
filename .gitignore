@@ -224,6 +224,7 @@ FodyWeavers.xsd
 .vscode/*
 .obj/*
 obj/*
+bin/*
 homework.csproj
 !.vscode/settings.json
 !.vscode/tasks.json
