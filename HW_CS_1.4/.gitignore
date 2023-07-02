@@ -1,5 +1,5 @@
 nCrunchTemp_*
-
+*.csproj
 # MightyMoose
 *.mm.*
 AutoTest.Net/
