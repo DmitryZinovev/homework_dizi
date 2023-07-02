@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-/* ДЗ 1.1
+﻿/* ДЗ 1.1
 Урок 1. Знакомство с языком программирования С#
 СДАВАТЬ ССЫЛКОЙ НА GITHUB
 
